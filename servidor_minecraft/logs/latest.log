@@ -1,0 +1,35 @@
+[08:25:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:25:30] [ServerMain/INFO]: No existing world data, creating new world
+[08:25:31] [ServerMain/INFO]: Loaded 1370 recipes
+[08:25:31] [ServerMain/INFO]: Loaded 1481 advancements
+[08:25:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[08:25:31] [Server thread/INFO]: Loading properties
+[08:25:31] [Server thread/INFO]: Default game type: SURVIVAL
+[08:25:31] [Server thread/INFO]: Generating keypair
+[08:25:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:25:31] [Server thread/INFO]: Using epoll channel type
+[08:25:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:25:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:25:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:25:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:25:31] [Server thread/INFO]: Preparing level "world"
+[08:25:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:25:38] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[08:25:38] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[08:25:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[08:25:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[08:25:40] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[08:25:40] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[08:25:41] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[08:25:41] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[08:25:42] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[08:25:42] [Server thread/INFO]: Time elapsed: 4318 ms
+[08:25:42] [Server thread/INFO]: Done (11.076s)! For help, type "help"
+[08:25:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:25:42] [Server thread/INFO]: bin/python3 /workspaces/PROKALAND/msx.py<--[HERE]
+[08:26:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:26:46] [Server thread/INFO]: esnorlax7u7[/127.42.193.58:51705] logged in with entity id 32 at (22.5, 64.0, 5.5)
+[08:26:46] [Server thread/INFO]: esnorlax7u7 joined the game
+[08:28:55] [Server thread/INFO]: esnorlax7u7 lost connection: Disconnected
+[08:28:55] [Server thread/INFO]: esnorlax7u7 left the game
+[08:29:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
